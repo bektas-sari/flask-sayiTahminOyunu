@@ -1,4 +1,4 @@
-🎯 Sayı Tahmin Oyunu (Flask ile Geliştirilen Web Uygulaması)
+🎯 Sayı Tahmin Oyunu (Flask ile Web Uygulaması)
 
 Bu proje, Flask framework kullanılarak oluşturulmuş **modern ve kullanıcı dostu** bir sayı tahmin oyunudur. Kullanıcı, 1 ile 100 arasında rastgele seçilen bir sayıyı tahmin etmeye çalışır.
 
